@@ -1,3 +1,3 @@
-# Exercícios JStack
+# JStack
  
 ### Projetos desenvolvidos no curso JStack
